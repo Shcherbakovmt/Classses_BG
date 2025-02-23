@@ -130,7 +130,10 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Barbarian.hpp" />
+    <ClInclude Include="Bard.hpp" />
     <ClInclude Include="Classes.hpp" />
+    <ClInclude Include="Warrior.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,3 +1,4 @@
+#pragma once
 #include <iostream>
 using namespace std;
 class Character
@@ -12,7 +13,9 @@ protected:
     int wisdom;
     int charisma;
     string* abilities;
+    int number_of_abilities;
     int AddAction;
+    
 public:
     int getHP() { return hp; }
     int getArmorClass() { return armor_class; }
@@ -23,6 +26,7 @@ public:
     int getWisdom() { return wisdom; }
     int getCharisma() { return charisma; }
     string* getAbilities() { return abilities; }
+    int getNumberOfAbilities() { return number_of_abilities; }
 
 
 };
@@ -41,3 +45,5 @@ public:
 
     }
 };
+
+

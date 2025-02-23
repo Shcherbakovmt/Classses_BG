@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{0A354AC7-789B-461A-B657-FC560D660FF0}|BG_classes_VS.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0A354AC7-789B-461A-B657-FC560D660FF0}|BG_classes_VS.vcxproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Bard.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A354AC7-789B-461A-B657-FC560D660FF0}|BG_classes_VS.vcxproj|solutionrelative:Bard.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A354AC7-789B-461A-B657-FC560D660FF0}|BG_classes_VS.vcxproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Barbarian.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A354AC7-789B-461A-B657-FC560D660FF0}|BG_classes_VS.vcxproj|solutionrelative:Barbarian.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A354AC7-789B-461A-B657-FC560D660FF0}|BG_classes_VS.vcxproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Warrior.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A354AC7-789B-461A-B657-FC560D660FF0}|BG_classes_VS.vcxproj|solutionrelative:Warrior.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A354AC7-789B-461A-B657-FC560D660FF0}|BG_classes_VS.vcxproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Classes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0A354AC7-789B-461A-B657-FC560D660FF0}|BG_classes_VS.vcxproj|solutionrelative:Classes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +42,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warrior.hpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Warrior.hpp",
+              "RelativeDocumentMoniker": "Warrior.hpp",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Warrior.hpp",
+              "RelativeToolTip": "Warrior.hpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvyIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-23T20:59:10.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Barbarian.hpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Barbarian.hpp",
+              "RelativeDocumentMoniker": "Barbarian.hpp",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Barbarian.hpp",
+              "RelativeToolTip": "Barbarian.hpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-23T20:26:54.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Bard.hpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Bard.hpp",
+              "RelativeDocumentMoniker": "Bard.hpp",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Bard.hpp",
+              "RelativeToolTip": "Bard.hpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-23T20:06:18.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Classes.hpp",
               "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Classes.hpp",
               "RelativeDocumentMoniker": "Classes.hpp",
               "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\Classes.hpp",
               "RelativeToolTip": "Classes.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-10T17:42:18.118Z",
               "EditorCaption": ""
@@ -49,7 +100,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\Classses_BG\\BG_classes_VS\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-10T17:41:54.029Z",
               "EditorCaption": ""
